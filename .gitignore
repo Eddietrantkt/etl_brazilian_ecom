@@ -1,0 +1,27 @@
+# Data
+mysql/
+postgresql/
+minio/
+brazilian-ecommerce/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Dagster
+.tmp_dagster_home*/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gemini
+.gemini/
