@@ -1,0 +1,119 @@
+
+
+============================== 2025-08-06 03:32:34.270916 | 76235e01-7ea4-4890-9085-abea32a03811 ==============================
+[0m03:32:34.270916 [info ] [MainThread]: Running with dbt=1.3.0
+[0m03:32:34.271901 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'D:\\downloadD\\dwh', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m03:32:34.272924 [debug] [MainThread]: Tracking: tracking
+[0m03:32:34.285205 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002712055FCD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002712055FDF0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002712055FF10>]}
+[0m03:32:40.961599 [debug] [MainThread]: Starter project path: c:\Users\ASUS\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+[0m03:32:43.681755 [info ] [MainThread]: Profile brazillian_ecom written to D:\downloadD\dwh\profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+[0m03:32:43.682757 [info ] [MainThread]: 
+Your new dbt project "brazillian_ecom" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m03:32:43.683757 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002712055F5E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002712055C490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002712055C280>]}
+[0m03:32:43.683757 [debug] [MainThread]: Flushing usage events
+
+
+============================== 2025-08-08 02:33:03.087792 | a25d5163-5516-45ae-9ea6-bd2652b6efeb ==============================
+[0m02:33:03.087792 [info ] [MainThread]: Running with dbt=1.3.0
+[0m02:33:03.088736 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'D:\\downloadD\\dwh', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m02:33:03.089737 [debug] [MainThread]: Tracking: tracking
+[0m02:33:03.134856 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024232F69480>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024232F6A020>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024232F69570>]}
+[0m02:33:15.360502 [debug] [MainThread]: Starter project path: c:\Users\ASUS\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+[0m02:33:25.861091 [info ] [MainThread]: 
+Your new dbt project "brazillian_ecom" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m02:33:25.862092 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024232F6A3E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024232F6A650>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024232F6A8C0>]}
+[0m02:33:25.863091 [debug] [MainThread]: Flushing usage events
+
+
+============================== 2025-08-08 08:49:54.560056 | bcff7f64-ffd9-472d-b1f3-1c629039075d ==============================
+[0m08:49:54.560056 [info ] [MainThread]: Running with dbt=1.3.0
+[0m08:49:54.561572 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'D:\\downloadD\\dwh', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m08:49:54.561572 [debug] [MainThread]: Tracking: tracking
+[0m08:49:54.636264 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002449ACD6620>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002449ACD6D70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002449ACD4640>]}
+[0m08:50:07.337875 [debug] [MainThread]: Starter project path: c:\Users\ASUS\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+[0m08:50:16.500902 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002449AC7FD90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002449AC7FEB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002449ACD74C0>]}
+[0m08:50:16.501910 [debug] [MainThread]: Flushing usage events
+[0m16:05:08.141762 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002754FF75F60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027552240AC0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000275522408E0>]}
+
+
+============================== 16:05:08.150831 | 5e794f79-96fb-4205-ac0d-335959d7b41a ==============================
+[0m16:05:08.150831 [info ] [MainThread]: Running with dbt=1.10.8
+[0m16:05:08.152968 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'profiles_dir': './', 'log_path': 'logs', 'fail_fast': 'False', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'invocation_command': 'dbt init --profiles-dir ./', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True'}
+[0m16:05:18.611539 [debug] [MainThread]: Starter project path: D:\downloadD\dwh\venv\lib\site-packages\dbt\include\starter_project
+[0m16:05:18.692703 [info ] [MainThread]: 
+Your new dbt project "brazillian_ecom" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m16:05:18.694712 [info ] [MainThread]: Setting up your profile.
+[0m16:06:29.267041 [info ] [MainThread]: Profile brazillian_ecom written to profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m16:06:29.271555 [debug] [MainThread]: Command `dbt init` succeeded at 16:06:29.271555 after 81.29 seconds
+[0m16:06:29.271555 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002754FF75F60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002755223F3D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000275522407F0>]}
+[0m16:06:29.272554 [debug] [MainThread]: Flushing usage events
+[0m16:06:30.744755 [debug] [MainThread]: An error was encountered while trying to flush usage events
+
+
+============================== 2025-08-14 09:26:32.277329 | 9a9f7a35-8ed4-4ecd-99aa-3d5270942431 ==============================
+[0m09:26:32.277329 [info ] [MainThread]: Running with dbt=1.3.0
+[0m09:26:32.289208 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'D:\\downloadD\\dwh', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m09:26:32.292662 [debug] [MainThread]: Tracking: tracking
+[0m09:26:32.517830 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000020589D15CC0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000020589D149A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000020589D156C0>]}
+[0m09:26:55.231752 [debug] [MainThread]: Starter project path: C:\Users\ASUS\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+[0m09:26:59.836120 [info ] [MainThread]: Profile brazillian_ecom written to D:\downloadD\dwh\profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+[0m09:26:59.840265 [info ] [MainThread]: 
+Your new dbt project "brazillian_ecom" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m09:26:59.851803 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000020589D14AF0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000020589D16890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000020589D15450>]}
+[0m09:26:59.859796 [debug] [MainThread]: Flushing usage events
